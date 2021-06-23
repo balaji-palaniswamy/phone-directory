@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    padding: 20;
+    color: white;
+    background: black;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+
+#button{
+    background: green;
+    color: white;
+    padding: 20;
+    height: 40;
+    width: 100;
+}
+
+#phone{
+    text-align: left;
+    font-size: large;
+    color: blue;
+}
